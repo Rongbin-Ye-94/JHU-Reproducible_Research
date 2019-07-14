@@ -1,4 +1,4 @@
-#1. Question 1 - C
+# 1. Question 1 - C
 Suppose I conduct a study and publish my findings. Which of the following is an example of a replication of my study?
 
 A. I take my own data, analyze it again, and publish new findings.
@@ -10,7 +10,7 @@ C. I give my data to an independent investigator at another institution, she ana
 D. An investigator at another institution conducts a study addressing the same question, collects her own data, analyzes it separately from me, and publishes her own findings.
 
 
-#2. Question 2 - A
+# 2. Question 2 - A
 Which of the following is a requirement for a published data analysis to be reproducible?
 
 A. The investigator makes the analytic data publicly available.
@@ -22,7 +22,7 @@ C. The analysis is conducted on a variant of the Unix operating system.
 D. The investigator makes available his computer, on which the analysis was originally conducted.
 
 
-#3. Question 3 - D
+# 3. Question 3 - D
 Which of the following is an example of a reproducible study?
 
 A. The study's analytic data and computer code are not publicly available, but the study was simple enough to be repeated by an independent investigator.
@@ -34,7 +34,7 @@ C. The study's original authors re-run their computer code on their analytic dat
 D. The study's analytic data and computer code for the data analysis are publicly available. When the code is run on the analytic data, the findings are identical to the published results.
 
 
-#4. Question 4 - C
+# 4. Question 4 - C
 Which of the following is a reason that a study might NOT be fully replicated?
 
 A. The original study had null findings.
@@ -46,7 +46,7 @@ C. The original study was very expensive and there is no money to repeat it in a
 D. The original investigator does not want to make the analytic data available.
 
 
-#5. Question 5 - D 
+# 5. Question 5 - D 
 Which of the following is a reason why publishing reproducible research is increasingly important?
 
 A. The statistical methods for most studies can be accurately described using plain language.
@@ -58,7 +58,7 @@ C. Most studies today are small-scale and easily replicated.
 D. New technologies are increasing the rate of data collection, creating datasets that are more complex and extremely high dimensional.
 
 
-#6. Question 6 - C
+# 6. Question 6 - C
 What is the role of processing code in the research pipeline?
 
 A. It conducts the statistical analysis of the primary outcome.
@@ -69,7 +69,7 @@ C. It transforms the measured data into analytic data.
 
 D. It transforms the computational results into figures and tables.
 
-#7. Question 7 - B
+# 7. Question 7 - B
 
 Which is a goal of literate statistical programming?
 
@@ -82,7 +82,7 @@ C.Require that data analysis summaries are always written in LaTeX.
 D.Separate figures and tables from other data analytic summaries.
 
 
-#8. Question 8 - A
+# 8. Question 8 - A
 What does it mean to weave a literate statistical program?
 
 A.Transform the literate program into a human readable document.
@@ -94,7 +94,7 @@ C.Transform the literate program into a machine readable code file.
 D.Compress the literate program so that it takes up less space.
 
 
-#9. Question 9 - A
+# 9. Question 9 - A
 Which of the following is required to implement a literate programming system?
 
 A.A documentation language like LaTeX.
@@ -107,7 +107,7 @@ D.A web server for publishing documents.
 Question 101
 point
 
-#10. Question 10 - B
+# 10. Question 10 - B
 What is one way in which the knitr system differs from Sweave?
 
 A.knitr is written in python instead of R.
