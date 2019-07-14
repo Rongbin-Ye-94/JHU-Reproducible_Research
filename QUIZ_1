@@ -1,0 +1,119 @@
+#1. Question 1 - C
+Suppose I conduct a study and publish my findings. Which of the following is an example of a replication of my study?
+
+A. I take my own data, analyze it again, and publish new findings.
+
+B. An investigator at another institution conducts a study addressing a different scientific question and publishes her findings.
+
+C. I give my data to an independent investigator at another institution, she analyzes the data and gets the same results as I originally obtained.
+
+D. An investigator at another institution conducts a study addressing the same question, collects her own data, analyzes it separately from me, and publishes her own findings.
+
+
+#2. Question 2 - A
+Which of the following is a requirement for a published data analysis to be reproducible?
+
+A. The investigator makes the analytic data publicly available.
+
+B. The data analysis is conducted using R.
+
+C. The analysis is conducted on a variant of the Unix operating system.
+
+D. The investigator makes available his computer, on which the analysis was originally conducted.
+
+
+#3. Question 3 - D
+Which of the following is an example of a reproducible study?
+
+A. The study's analytic data and computer code are not publicly available, but the study was simple enough to be repeated by an independent investigator.
+
+B. The study's analytic data are publicly available, but the computer code is not.
+
+C. The study's original authors re-run their computer code on their analytic data and confirm publicly that the findings match those of the published results.
+
+D. The study's analytic data and computer code for the data analysis are publicly available. When the code is run on the analytic data, the findings are identical to the published results.
+
+
+#4. Question 4 - C
+Which of the following is a reason that a study might NOT be fully replicated?
+
+A. The original study had null findings.
+
+B. The original study was conducted by a well-known investigator.
+
+C. The original study was very expensive and there is no money to repeat it in a different setting.
+
+D. The original investigator does not want to make the analytic data available.
+
+
+#5. Question 5 - D 
+Which of the following is a reason why publishing reproducible research is increasingly important?
+
+A. The statistical methods for most studies can be accurately described using plain language.
+
+B. Computing power is limited today, making it difficult to apply sophisticated statistical methods.
+
+C. Most studies today are small-scale and easily replicated.
+
+D. New technologies are increasing the rate of data collection, creating datasets that are more complex and extremely high dimensional.
+
+
+#6. Question 6 - C
+What is the role of processing code in the research pipeline?
+
+A. It conducts the statistical analysis of the primary outcome.
+
+B. It transforms the analytic data into computational results.
+
+C. It transforms the measured data into analytic data.
+
+D. It transforms the computational results into figures and tables.
+
+#7. Question 7 - B
+
+Which is a goal of literate statistical programming?
+
+A.Ensure that data analysis documents are always exported in PDF format.
+
+B.Combine explanatory text and data analysis code in a single document.
+
+C.Require that data analysis summaries are always written in LaTeX.
+
+D.Separate figures and tables from other data analytic summaries.
+
+
+#8. Question 8 - A
+What does it mean to weave a literate statistical program?
+
+A.Transform the literate program into a human readable document.
+
+B.Transform a literate program from R to python.
+
+C.Transform the literate program into a machine readable code file.
+
+D.Compress the literate program so that it takes up less space.
+
+
+#9. Question 9 - A
+Which of the following is required to implement a literate programming system?
+
+A.A documentation language like LaTeX.
+
+B.A program that views PDF files.
+
+C.A Unix-based computer system.
+
+D.A web server for publishing documents.
+Question 101
+point
+
+#10. Question 10 - B
+What is one way in which the knitr system differs from Sweave?
+
+A.knitr is written in python instead of R.
+
+B.knitr allows for the use of markdown instead of LaTeX.
+
+C.knitr lacks features like caching of code chunks.
+
+D.knitr was developed by Friedrich Leisch.
